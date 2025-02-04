@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer", "ConsoleApp1\GameServer.csproj", "{5526CFB6-F163-4745-8C64-7BD721761ED1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer", "GameServer\GameServer.csproj", "{6A4E9338-27BD-425A-927A-9DBAD6C30ED0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5526CFB6-F163-4745-8C64-7BD721761ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5526CFB6-F163-4745-8C64-7BD721761ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5526CFB6-F163-4745-8C64-7BD721761ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5526CFB6-F163-4745-8C64-7BD721761ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4E9338-27BD-425A-927A-9DBAD6C30ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4E9338-27BD-425A-927A-9DBAD6C30ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4E9338-27BD-425A-927A-9DBAD6C30ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4E9338-27BD-425A-927A-9DBAD6C30ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
